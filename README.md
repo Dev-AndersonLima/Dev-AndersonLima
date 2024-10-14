@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-AndersonLima
-- 👀 I’m interested in desenvolvimento web, bancos de dados
-- 🌱 I’m currently learning PHP, CSS e desenvolvimento full-stack através do meu curso de Análise e Desenvolvimento de Sistemas
-- 💞️ I’m looking to collaborate on projetos de código aberto, aplicativos da web ou qualquer iniciativa relacionada à tecnologia
+- 👀 I’m interested in web development and databases
+- 🌱 I’m currently learning PHP, CSS, and full-stack
+- 💞️ I’m looking to collaborate on open-source projects, web applications, or any tech-related initiat
 - 📫 How to reach me anderson.lima8076@gmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: ...
